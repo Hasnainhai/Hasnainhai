@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Hasnain haider</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate flutter developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://wordsandactions12342078.files.wordpress.com/2021/12/pexels-sora-shimazaki-5935791.jpg?w=1200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainhai&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainhai" /> </p>
