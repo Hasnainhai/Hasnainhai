@@ -14,8 +14,8 @@
 ### 🚀 About Me  
 - 🔭 Currently working on: **Collaborative Editing System (Microservices + Real-time Sync)**  
 - 🌱 Exploring: **Machine Learning, Distributed Systems & Advanced Flutter Architecture**  
-- 💡 Skilled in: **Flutter | Dart | PostgreSQL | Microservices | Firebase | REST APIs**  
-- 💬 Ask me about: **Mobile App Development, Clean Architecture, Testing (JUnit/Mockito)**  
+- 💡 Skilled in: **Flutter | Dart | Python | Django | React.js | PostgreSQL | Microservices | Firebase | REST APIs**  
+- 💬 Ask me about: **Software Engineering, Mobile App Development (Flutter), Clean Architecture, Python & Django Development, React.js Frontend Development, REST APIs, PostgreSQL, Microservices, Firebase, and Testing (JUnit/Mockito).**  
 - 📫 Reach me at: **hasnainhaider7676@gmail.com**  
 - ⚡ Fun fact: **I love solving complex engineering problems with simple solutions!**
 
