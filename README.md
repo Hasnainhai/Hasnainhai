@@ -16,7 +16,7 @@
 - 🌱 Exploring: **Machine Learning, Distributed Systems & Advanced Flutter Architecture**  
 - 💡 Skilled in: **Flutter | Dart | PostgreSQL | Microservices | Firebase | REST APIs**  
 - 💬 Ask me about: **Mobile App Development, Clean Architecture, Testing (JUnit/Mockito)**  
-- 📫 Reach me at: **hasnainhaiderbs2099@gmail.com**  
+- 📫 Reach me at: **hasnainhaider7676@gmail.com**  
 - ⚡ Fun fact: **I love solving complex engineering problems with simple solutions!**
 
 ---
