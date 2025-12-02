@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on: **Collaborative Editing System (Microservices + Real-time Sync)**  
+- 🔭 Currently working on: **Home Access Manager (MultiRole-base system + Real-time Sync)**  
 - 🌱 Exploring: **Machine Learning, Distributed Systems & Advanced Flutter Architecture**  
 - 💡 Skilled in: **Flutter | Dart | Python | Django | React.js | PostgreSQL | Microservices | Firebase | REST APIs**  
 - 💬 Ask me about: **Software Engineering, Mobile App Development (Flutter), Clean Architecture, Python & Django Development, React.js Frontend Development, REST APIs, PostgreSQL, Microservices, Firebase, and Testing (JUnit/Mockito).**  
